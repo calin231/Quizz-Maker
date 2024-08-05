@@ -1,0 +1,12 @@
+Nhập số cột muốn lấy:
+2
+Nhập số câu hỏi trong 1 video:
+5
+Nhập số đáp án cho mỗi câu hỏi:
+0
+Nhập cột để copy đáp án đúng:
+Team
+Nhập cột để copy random cho các đáp án sai:
+Team
+Input_path:
+NFL_Base_Data_Final.xlsx
