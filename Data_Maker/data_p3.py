@@ -36,7 +36,7 @@ def copy_data_to_custom_columns(input_file_path, output_file_path, base_column_n
         f'{base_column_name}27': 'B27',
         f'{base_column_name}28': 'C28',
         f'{base_column_name}29': 'A29',
-        f'{base_column_name}30': 'B30'
+        f'{base_column_name}30': 'A30'
     }
 
     # Copy the data according to the mapping
