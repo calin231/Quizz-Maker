@@ -1,12 +1,12 @@
 Nhập số cột muốn lấy:
-2
+3
 Nhập số câu hỏi trong 1 video:
-5
+25
 Nhập số đáp án cho mỗi câu hỏi:
-0
+3
 Nhập cột để copy đáp án đúng:
-Team
+Country
 Nhập cột để copy random cho các đáp án sai:
-Team
+Country
 Input_path:
-NFL_Base_Data_Final.xlsx
+Flags-Lib.xlsx

@@ -7,8 +7,8 @@ def copy_data_to_custom_columns(input_file_path, output_file_path, base_column_n
 
     # Nhập quy tắt đáp án đúng tại đây:
     column_mapping = {
-        f'{base_column_name}1': 'C1',
-        f'{base_column_name}2': 'C2',
+        f'{base_column_name}1': 'B1',
+        f'{base_column_name}2': 'A2',
         f'{base_column_name}3': 'B3',
         f'{base_column_name}4': 'C4',
         f'{base_column_name}5': 'A5',

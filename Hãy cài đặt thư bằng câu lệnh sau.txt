@@ -1,8 +1,8 @@
 #Dành cho người dùng:
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 Bạn cần cài đặt thư viện để có thể chạy hết được code. :)
 
 #Dành cho manager/leader:
 Bạn cần collect thư viện vào file requirements và yêu cầu members install trước khi chạy tất cả .py trong code này nhé. (Jin)
-pip freeze > requirements.txt
+pip3 freeze > requirements.txt

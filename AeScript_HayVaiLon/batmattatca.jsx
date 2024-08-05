@@ -8,6 +8,7 @@
     }
 
     // Split the input into an array of composition names
+    // Đây là chú thích, để nhìn zô biết chức năng của cái file này.
     var compNames = compNamesInput.split(",").map(function(name) {
         return name.trim();
     });
