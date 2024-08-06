@@ -10,4 +10,7 @@ và nhiều nhiều tinh năng khác
 Sử dụng API của Elevenlabs để gen voice
 
 
-Gởi lời cảm ơn chân thành đến anh Phan Quốc Cường (https://www.facebook.com/cuongpqtc) đã hỗ trợ chạy API Elevenlabs. 
+Gởi lời cảm ơn chân thành đến anh Phan Quốc Cường (https://www.facebook.com/cuongpqtc) đã hỗ trợ chạy API Elevenlabs.
+
+Để biết cách sử dụng vui lòng liên hệ mình qua: Facebook https://www.facebook.com/jinjieliu198/
+Ủng hộ mình qua Momo: 0399110357
